@@ -1,4 +1,4 @@
-## stacks_example
+# stacks_example
 
 A new Flutter project.
 
